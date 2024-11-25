@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c0441cb.css",
-    "main.js": "/static/js/main.9a0d352f.js",
-    "static/js/453.11ec2e8c.chunk.js": "/static/js/453.11ec2e8c.chunk.js",
-    "index.html": "/index.html",
-    "main.6c0441cb.css.map": "/static/css/main.6c0441cb.css.map",
-    "main.9a0d352f.js.map": "/static/js/main.9a0d352f.js.map",
-    "453.11ec2e8c.chunk.js.map": "/static/js/453.11ec2e8c.chunk.js.map"
+    "main.css": "https://azinudinachzab.github.io/task-tracker/static/css/main.6c0441cb.css",
+    "main.js": "https://azinudinachzab.github.io/task-tracker/static/js/main.9a0d352f.js",
+    "static/js/453.11ec2e8c.chunk.js": "https://azinudinachzab.github.io/task-tracker/static/js/453.11ec2e8c.chunk.js",
+    "index.html": "https://azinudinachzab.github.io/task-tracker/index.html",
+    "main.6c0441cb.css.map": "https://azinudinachzab.github.io/task-tracker/static/css/main.6c0441cb.css.map",
+    "main.9a0d352f.js.map": "https://azinudinachzab.github.io/task-tracker/static/js/main.9a0d352f.js.map",
+    "453.11ec2e8c.chunk.js.map": "https://azinudinachzab.github.io/task-tracker/static/js/453.11ec2e8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c0441cb.css",
-    "static/js/main.9a0d352f.js"
+    "https://azinudinachzab.github.io/task-tracker/static/css/main.6c0441cb.css",
+    "https://azinudinachzab.github.io/task-tracker/static/js/main.9a0d352f.js"
   ]
 }
